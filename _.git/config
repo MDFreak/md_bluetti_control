@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "md_bluetti_control"]
+	url = https://github.com/MDFreak/
+	fetch = +refs/heads/*:refs/remotes/md_bluetti_control/*
